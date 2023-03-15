@@ -13,9 +13,8 @@ Links For Documentation
 
 ![esp32](https://github.com/Noman3325/ESP-32-Router-process/blob/main/es.PNG)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr&t=4s
+" target="_blank"><img src="https://github.com/Noman3325/ESP-32-Router-process/blob/main/es.PNG" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 
 Steps That I Followed
