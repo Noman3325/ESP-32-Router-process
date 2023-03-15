@@ -8,6 +8,7 @@ Equipment
 [USB-Micro cable](https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B07232M876/ref=sr_1_1_sspa?crid=280CFH5F9GDKC&keywords=usb+micro+cable&qid=1678903216&sprefix=usb+m%2Caps%2C116&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUkhYWUMxOFpNRVNXJmVuY3J5cHRlZElkPUEwNDU1ODA1RFc0VFU4VFNRUFBFJmVuY3J5cHRlZEFkSWQ9QTA4NTAwNzMzRFVYTkVVNlZKRFBWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=)
 
 Links For Documentation
+![esp32](https://www.youtube.com/watch?v=41Lymi6rXA8&list=PLLikBZAto8K7zrkQQYOfoY9404SBhXeQr&t=4s)
 
 
 Steps That I Followed
